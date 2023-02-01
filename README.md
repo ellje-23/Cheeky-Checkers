@@ -17,3 +17,9 @@ The rules are:
 * When pieces are removed, if they belong to the player, they can go into the player's reserves. Otherwise they are removed from play.
 * A player can play anywhere from their reserves.
 * When a player can no longer move, the game is over, and the player that can still move wins.
+
+### To Run:
+1. Download the project 
+2. Open the project on IntelliJ
+3. Run the 'Focus.java' file
+4. Play the game in the pop up window
